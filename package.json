@@ -1,0 +1,28 @@
+{
+  "name": "sc-rabbitmq",
+  "version": "0.1.0",
+  "description": "RabbitMQ adapter for SocketCluster",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/SocketCluster/sc-rabbitmq.git"
+  },
+  "keywords": [
+    "rabbitmq",
+    "socketcluster",
+    "sc"
+  ],
+  "author": "Jonathan Gros-Dubois",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/SocketCluster/sc-rabbitmq/issues"
+  },
+  "homepage": "https://github.com/SocketCluster/sc-rabbitmq",
+  "dependencies": {
+    "amqp": "0.2.6",
+    "lodash": "4.13.1"
+  }
+}
