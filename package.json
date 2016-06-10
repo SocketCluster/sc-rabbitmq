@@ -22,7 +22,6 @@
   },
   "homepage": "https://github.com/SocketCluster/sc-rabbitmq",
   "dependencies": {
-    "amqp": "0.2.6",
-    "lodash": "4.13.1"
+    "amqp": "0.2.6"
   }
 }
